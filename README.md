@@ -38,3 +38,6 @@ git clone https://github.com/ridaaayaz/CourseWithdrawalApp.git
 3. Ensure MySQL is installed and create the database using the provided SQL scripts.
 4. Update the database connection settings in the project.
 5. Run the application
+
+## Demo Video
+[Watch Course Withdrawal Application Demo](https://drive.google.com/file/d/1Tsl_4nE-pNMxMjRrGn3zldVjbqFqP0BF/view?usp=drive_link)
