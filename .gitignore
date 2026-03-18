@@ -1,0 +1,11 @@
+# Ignore compiled files
+*.class
+
+# Ignore NetBeans build
+/build/
+
+# Ignore NetBeans private settings
+/nbproject/private/
+
+# VS Code settings
+.vscode/
